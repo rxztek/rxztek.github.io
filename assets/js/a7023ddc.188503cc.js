@@ -1,0 +1,1 @@
+(self.webpackChunkmy_rxz_demo=self.webpackChunkmy_rxz_demo||[]).push([[713],{7485:function(l){"use strict";l.exports=JSON.parse('{"hello":{"allTagsPath":"/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/blog/tags/hello"},"intro":{"allTagsPath":"/blog/tags","slug":"intro","name":"intro","count":1,"permalink":"/blog/tags/intro"}}')}}]);

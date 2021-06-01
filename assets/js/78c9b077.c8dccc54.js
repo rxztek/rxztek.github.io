@@ -1,0 +1,1 @@
+(self.webpackChunkmy_rxz_demo=self.webpackChunkmy_rxz_demo||[]).push([[452],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chao X\xecn M\u1ecdi Ng\u01b0\u1eddi","permalink":"/blog/hello"}]}')}}]);

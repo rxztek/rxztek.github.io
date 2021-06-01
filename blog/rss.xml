@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>DẬY MÀ CODE - FU Blog</title>
+        <link>https://code.rxzse.com/blog</link>
+        <description>DẬY MÀ CODE - FU Blog</description>
+        <lastBuildDate>Wed, 02 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chao Xìn Mọi Người]]></title>
+            <link>https://code.rxzse.com/blog/hello</link>
+            <guid>hello</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Xin chào các bạn Dự án của nhóm mình được tạo ra với mục đích PASS là chính.]]></description>
+        </item>
+    </channel>
+</rss>
