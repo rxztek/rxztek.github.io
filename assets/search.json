@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "RGM Checker",
+      "description" : "Check Live/Ver/Dis/Exists gmails Max Speed",
+      "tags"     : "",
+      "url"      : "/rgm-checker/",
+      "date"     : "2022-01-08 03:29:20 +0000"
+    } ,
+  
+    {
+      "title"    : "RGM Verifier",
+      "description" : "Verify gmail using phone number.",
+      "tags"     : "",
+      "url"      : "/rgm-verifier/",
+      "date"     : "2022-01-08 02:29:20 +0000"
+    } ,
+  
+    {
+      "title"    : "RGM Register (N)",
+      "description" : "Register gmail no phone number.",
+      "tags"     : "",
+      "url"      : "/rgm-register-n/",
+      "date"     : "2022-01-08 02:29:20 +0000"
+    } ,
+  
+    {
+      "title"    : "RGM Register (P)",
+      "description" : "Register gmail with phone number.",
+      "tags"     : "",
+      "url"      : "/rgm-register-p/",
+      "date"     : "2022-01-08 02:29:20 +0000"
+    } ,
+  
+    {
+      "title"    : "RGM Changer",
+      "description" : "Change gmail password/recv/etc...",
+      "tags"     : "",
+      "url"      : "/rgm-changer/",
+      "date"     : "2022-01-08 02:29:20 +0000"
+    } 
+  
+]
